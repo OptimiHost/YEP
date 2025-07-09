@@ -1,5 +1,5 @@
 {
   "indev":{
-    "examplepkg" : "/examplepkg"
+    "examplepkg:1.0.0" : "/examplepkg"
   }
 }
