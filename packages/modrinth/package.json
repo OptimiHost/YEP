@@ -1,5 +1,6 @@
 {
   "name": "modrinth",
+  "description": "An example package for YEP.",
   "version": "0.1.0",
   "private": true,
   "scripts": {
