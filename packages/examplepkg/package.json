@@ -1,0 +1,13 @@
+{
+  "name": "examplepkg",
+  "version": "1.0.0",
+  "description": "An example package for YEP.",
+  "dependencies": {
+    "figlet": "latest"
+  },
+  "compile": {
+    "1": "pnpm install",
+    "2": "echo Compiling examplepkg...",
+    "3": "echo Done!"
+  }
+} 
