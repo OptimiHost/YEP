@@ -1,5 +1,8 @@
 {
-  "indev":{
-    "testpackage:0.1.1" : "/test"
+  "production": {
+    "modrinth": {
+      "versions": ["1.0.0"],
+      "description": "Modrinth is a platform for hosting and sharing mods for Minecraft."
+    }
   }
 }
